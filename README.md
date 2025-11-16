@@ -21,8 +21,8 @@ This tool uses **pyAesCrypt** and performs efficient, line-by-line password atte
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/aescrypt-bruteforce.git
-cd aescrypt-bruteforce
+git clone https://github.com/elsevar11/AES-Crypt-Brute-Force-Tool.git
+cd AES-Crypt-Brute-Force-Tool
 ```
 ### 2. Install requirements
 ```bash
